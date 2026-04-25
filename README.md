@@ -78,7 +78,7 @@
     </div>
 
     <script>
-      const CHANNELS_API_URL = "./channels.json";
+      const CHANNELS_API_URL = "livechannels12/channels.json";
       const AD_VIDEO_URL = "https://res.cloudinary.com/dqstmljlq/video/upload/v1771688701/reklama_pz6r4y.mp4";
 
       const I18N = {
