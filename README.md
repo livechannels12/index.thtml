@@ -331,7 +331,7 @@
       ];
 
       // სურვილის შემთხვევაში აქ ჩაწერე შენი JSON URL (სადაც channels მასივი დაბრუნდება)
-      const CHANNELS_API_URL = ""; // მაგალითად: "https://example.com/channels.json"
+      const CHANNELS_API_URL = ""; // მაგალითად: "[https:// ](https://github.com/livechannels12/channels.json"
 
       const TOP_MATCHES = [
         { teams: "Real Madrid vs Barcelona", time: "21:00", league: "LaLiga" },
